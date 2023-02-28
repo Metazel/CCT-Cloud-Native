@@ -8,6 +8,10 @@ Cette partie est consacrée au guide et *pattern* d'architecture [cloud native](
 - [ADR](./adr/ADR-patterns-001.md)
 - [Template](./template-manifest/)
 
+**Pattern de sécurité** :
+- [Schema](.)
+- [ADR _ Gestion des secrets](./adr/ADR-patterns-002-gestion-secrets.md)
+- [Template](.)
 
 **Pattern d'observabilité** :
 - [Schema](.)
